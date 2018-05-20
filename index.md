@@ -13,7 +13,7 @@
 - 3.1 - Basic Computer Terminology
 - 3.2 - Navigating Your Computer
 
-#### 2. Created my first Github repository for this coding log webpage
+#### 2. Created my first Github repository for this [Coding Log](https://vivianmaxine.github.io/) webpage
 
 --------------------------------------------------------------
 
