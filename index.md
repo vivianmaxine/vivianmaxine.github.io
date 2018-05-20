@@ -17,16 +17,14 @@
 
 --------------------------------------------------------------
 
-# // GITHUB MARKDOWN TO REMEMBER
 
-Markdown reminders
+# // GITHUB MARKDOWN
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
 
 - Bulleted
 - List
