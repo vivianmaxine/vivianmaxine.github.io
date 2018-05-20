@@ -1,14 +1,15 @@
 ## Coding Log
 
-May 20, 2018
-1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 3 (Be The Boss of Your Computer]
+### May 20, 2018
+1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 3 (Be The Boss of Your Computer)
 - 3.1 - Basic Computer Terminology
 - 3.2 - Navigating Your Computer
 
 
+
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown reminders
 
 ```markdown
 Syntax highlighted code block
