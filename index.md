@@ -1,6 +1,6 @@
 # // CODING LOG
 
-# May 20, 2018
+## May 20, 2018
 
 ### Today's Goals:
 - [ ] Complete at least 1 Discovery Learning module
