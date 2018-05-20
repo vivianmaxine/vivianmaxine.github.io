@@ -2,13 +2,13 @@
 
 ## May 20, 2018
 
-### Today's Goals:
+### TODAY'S GOALS:
 - [x]  Complete at least 1 Discovery Learning module
 - [ ]  Review completed JavaScript sections on freeCodeCamp
 - [ ]  Complete at least 2 more JavaScript sections on freeCodeCamp
 - [x]  Work on web design project for Upwork and complete 1st draft
 
-### Today's Completions:
+### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793)** - Module 3 (Be The Boss of Your Computer)
 - 3.1 - Basic Computer Terminology
 - 3.2 - Navigating Your Computer
