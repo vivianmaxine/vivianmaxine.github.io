@@ -15,7 +15,7 @@
 
 #### 2. Created my first Github repository for this coding log webpage
 
-
+--------------------------------------------------------------
 
 ### Markdown
 
