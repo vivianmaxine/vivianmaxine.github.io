@@ -51,7 +51,7 @@
 - Convert Celsius to Fahrenheit + practiced with other customary conversions (length, capacity)
 - Declare String Variables
 - Escaping Literal Quotes in Strings
-- Quoting String with Single Quotes
+- Quoting Strings with Single Quotes
 - Escape Sequences in Strings
 
 
