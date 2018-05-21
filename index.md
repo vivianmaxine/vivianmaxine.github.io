@@ -19,6 +19,7 @@
 - Reviewed sections 17-25 (up to "Escape Sequences in Strings")
 - Concatenating Strings (26-27)
 
+--------------------
 
 ## May 20, 2018
 
