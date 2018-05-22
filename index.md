@@ -6,7 +6,7 @@
 ------------------
 ------------------
 
-## May 22, 2018
+## May 22, 2018 (DAY 3)
 
 ### TODAY'S GOALS:
 - [ ]  Complete at least one section of Discovery Learning module 4
@@ -33,7 +33,7 @@
 
 --------------------
 
-## May 21, 2018
+## May 21, 2018 (DAY 2)
 
 ### TODAY'S GOALS:
 - [ ]  Complete at least two sections of Discovery Learning module 4
@@ -80,7 +80,7 @@
 
 --------------------
 
-## May 20, 2018
+## May 20, 2018 (DAY 1)
 
 ### TODAY'S GOALS:
 - [x]  Complete at least 1 Discovery Learning module
