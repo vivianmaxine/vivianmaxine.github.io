@@ -56,6 +56,9 @@
 - Concatenating Strings (26-27)
 
 #### 5. Re-read pages 12-49 of JavaScript & jQuery book
+- Objects and their properties, events, and methods
+- How web browsers and web documents relate to the concept of objects
+- Using a flow chart to map out tasks needed to break down a bigger goal
 
 #### 6. Did research on appointment booking and e-commerce plugins for WordPress
 
