@@ -13,6 +13,7 @@
 - [ ]  Review completed JavaScript sections on freeCodeCamp from yesterday
 - [ ]  Complete at least 3 more JavaScript sections on freeCodeCamp
 - [ ]  Re-read pages 50-84 of JavaScript & jQuery book
+- [ ]  Practice at least 10 minutes of touch typing
 
 ### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
@@ -24,9 +25,11 @@
 - Lesson 5: l;
 - Lesson 6: fd + jkl;
 
+#### 4. Re-read pages 50-84 of JavaScript & jQuery book
+
 #### 3. Worked on JavaScript exercises on freeCodeCamp
-- Reviewed sections 17-25 (up to "Escape Sequences in Strings")
-- Concatenating Strings (26-27)
+- Reviewed sections 26-28 (up to "Constructing Strings with Variables")
+- Appending Variables to Strings (29)
 
 --------------------
 
@@ -34,8 +37,8 @@
 
 ### TODAY'S GOALS:
 - [ ]  Complete at least two sections of Discovery Learning module 4
-- [ ]  Review completed JavaScript sections on freeCodeCamp from yesterday
-- [ ]  Complete at least 3 more JavaScript sections on freeCodeCamp
+- [x]  Review completed JavaScript sections on freeCodeCamp from yesterday
+- [x]  Complete at least 3 more JavaScript sections on freeCodeCamp
 - [ ]  Re-read pages 12-84 of JavaScript & jQuery book
 - [x]  Type for at least 10 minutes
 
@@ -53,7 +56,11 @@
 
 #### 4. Worked on JavaScript exercises on freeCodeCamp
 - Reviewed sections 17-25 (up to "Escape Sequences in Strings")
-- Concatenating Strings (26-27)
+  - Experimented with inputs (used prompt instead of input like in Python)
+  - Experimented with converting data types (used parseInt instead of int like in Python)
+- Concatenating Strings with Plus Operator
+- Concatenating Strings with Plus Operator
+- Constructing Strings with Variables (28)
 
 #### 5. Re-read pages 12-49 of JavaScript & jQuery book
 - Objects and their properties, events, and methods
@@ -101,7 +108,7 @@
 - Declare String Variables
 - Escaping Literal Quotes in Strings
 - Quoting Strings with Single Quotes
-- Escape Sequences in Strings
+- Escape Sequences in Strings (25)
 
 
 ------------------
