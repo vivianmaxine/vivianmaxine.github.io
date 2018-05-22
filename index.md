@@ -66,7 +66,7 @@
 - Created and shared the introductory survey
 - Shared information with potential attendees
 
-#### 9. Not coding-related... but I got an interview for a math intervention position! The interview is tomorrow at 1:50pm! Wish me luck! :)
+#### 9. Not coding-related... but I got an interview for a math intervention position! Wish me luck! :)
 
 --------------------
 
