@@ -40,7 +40,7 @@
 - [x]  Review completed JavaScript sections on freeCodeCamp from yesterday
 - [x]  Complete at least 3 more JavaScript sections on freeCodeCamp
 - [ ]  Re-read pages 12-84 of JavaScript & jQuery book
-- [x]  Type for at least 10 minutes
+- [x]  Practice at least 10 minutes of touch typing
 
 ### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
