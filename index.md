@@ -71,7 +71,7 @@
 
 #### 7. Applied for a lot of freelance projects and initiated a new project
 
-#### 8. Planned first Brentwood freeCodeCamp meetup
+#### 8. Planned first Brentwood freeCodeCamp St. Louis meetup
 - Reserved the meeting space
 - Created and shared the introductory survey
 - Shared information with potential attendees
