@@ -40,33 +40,33 @@
 - [x]  Type for at least 10 minutes
 
 ### TODAY'S COMPLETIONS:
-### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
+#### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
 - 4.1 - Coding Fundamentals
 
-### 2. Set up my [repl.it account](https://repl.it/@vivianmaxine) and saved several Python coding exercises
+#### 2. Set up my [repl.it account](https://repl.it/@vivianmaxine) and saved several Python coding exercises
 
-### 3. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
+#### 3. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
 - Lesson 3: jk + fd
 - Lesson 4: more jk + fd
 - Lesson 5: l;
 - Lesson 6: fd + jkl;
 
-### 3. Worked on JavaScript exercises on freeCodeCamp
+#### 4. Worked on JavaScript exercises on freeCodeCamp
 - Reviewed sections 17-25 (up to "Escape Sequences in Strings")
 - Concatenating Strings (26-27)
 
-### 4. Re-read pages 12-49 of JavaScript & jQuery book
+#### 5. Re-read pages 12-49 of JavaScript & jQuery book
 
-### 5. Did research on appointment booking and e-commerce plugins for WordPress
+#### 6. Did research on appointment booking and e-commerce plugins for WordPress
 
-### 6. Applied for a lot of freelance projects and initiated a new project
+#### 7. Applied for a lot of freelance projects and initiated a new project
 
-### 7. Planned first Brentwood freeCodeCamp meetup
+#### 8. Planned first Brentwood freeCodeCamp meetup
 - Reserved the meeting space
 - Created and shared the introductory survey
 - Shared information with potential attendees
 
-### 8. Not coding-related... but I got an interview for a math intervention position! The interview is tomorrow at 1:50pm! Wish me luck! :)
+#### 9. Not coding-related... but I got an interview for a math intervention position! The interview is tomorrow at 1:50pm! Wish me luck! :)
 
 --------------------
 
