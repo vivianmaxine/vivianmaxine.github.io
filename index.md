@@ -59,7 +59,7 @@
   - Experimented with inputs (used prompt instead of input like in Python)
   - Experimented with converting data types (used parseInt instead of int like in Python)
 - Concatenating Strings with Plus Operator
-- Concatenating Strings with Plus Operator
+- Concatenating Strings with Plus Equals Operator
 - Constructing Strings with Variables (28)
 
 #### 5. Re-read pages 12-49 of JavaScript & jQuery book
