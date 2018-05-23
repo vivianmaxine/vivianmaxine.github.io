@@ -6,30 +6,55 @@
 ------------------
 ------------------
 
-## May 22, 2018 (DAY 3)
+## May 23, 2018 (DAY 4)
 
 ### TODAY'S GOALS:
 - [ ]  Complete at least one section of Discovery Learning module 4
 - [ ]  Review completed JavaScript sections on freeCodeCamp from yesterday
 - [ ]  Complete at least 3 more JavaScript sections on freeCodeCamp
-- [ ]  Re-read pages 50-84 of JavaScript & jQuery book
+- [ ]  Re-read pages 64-74 of JavaScript & jQuery book
 - [ ]  Practice at least 10 minutes of touch typing
+
+### TODAY'S COMPLETIONS:
+#### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
+- 4.3 - Repeating with Loops
+
+#### 2. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
+- Lesson 1: Home Row Position (All, 1-9)
+
+#### 4. Re-read pages 64-74 of JavaScript & jQuery book
+
+#### 3. Worked on JavaScript exercises on freeCodeCamp
+- Reviewed sections 29-31 (up to "Use Bracket Notation to Find the First Character in a String")
+- Understand String Immutability (32)
+
+--------------------
+
+## May 22, 2018 (DAY 3)
+
+### TODAY'S GOALS:
+- [x]  Complete at least one section of Discovery Learning module 4
+- [x]  Review completed JavaScript sections on freeCodeCamp from yesterday
+- [x]  Complete at least 3 more JavaScript sections on freeCodeCamp
+- [ ]  Re-read pages 50-84 of JavaScript & jQuery book
+- [x]  Practice at least 10 minutes of touch typing
 
 ### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
 - 4.2 - Making Decisions with Conditionals
 
 #### 2. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
-- Lesson 3: jk + fd
-- Lesson 4: more jk + fd
-- Lesson 5: l;
-- Lesson 6: fd + jkl;
+- Lesson 1: Home Row Position (All, 1-9)
 
-#### 4. Re-read pages 50-84 of JavaScript & jQuery book
+#### 3. Re-read pages 50-63 of JavaScript & jQuery book
 
-#### 3. Worked on JavaScript exercises on freeCodeCamp
+#### 4. Worked on JavaScript exercises on freeCodeCamp
 - Reviewed sections 26-28 (up to "Constructing Strings with Variables")
 - Appending Variables to Strings (29)
+- Find the Length of a String (30)
+- Use Bracket Notation to Find the First Character in a String (31)
+
+#### 5. Worked on second draft of Upwork web design project
 
 --------------------
 
@@ -49,10 +74,7 @@
 #### 2. Set up my [repl.it account](https://repl.it/@vivianmaxine) and saved several Python coding exercises
 
 #### 3. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
-- Lesson 3: jk + fd
-- Lesson 4: more jk + fd
-- Lesson 5: l;
-- Lesson 6: fd + jkl;
+- Lesson 1: Home Row Position (3-6)
 
 #### 4. Worked on JavaScript exercises on freeCodeCamp
 - Reviewed sections 17-25 (up to "Escape Sequences in Strings")
@@ -97,9 +119,7 @@
 #### 2. Created my first Github repository for this [Coding Log](https://vivianmaxine.github.io/) webpage
 
 #### 3. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
-- Lesson 1: jk
-- Lesson 2: fd
-- Lesson 3: jk + fd
+- Lesson 1: Home Row Position (1-3)
 
 #### 4. Worked on JavaScript exercises on freeCodeCamp
 - Reviewed sections 1-16 (up to "Finding a Remainder in JavaScript")
