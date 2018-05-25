@@ -6,17 +6,18 @@
 ------------------
 ------------------
 
-## May 23, 2018 (DAY 4)
+## May 25, 2018 (DAY 6)
 
 ### TODAY'S GOALS:
 - [ ]  Complete at least one section of Discovery Learning module 4
-- [ ]  Review completed JavaScript sections on freeCodeCamp from yesterday
+- [ ]  Review completed JavaScript sections on freeCodeCamp from day before yesterday
 - [ ]  Complete at least 3 more JavaScript sections on freeCodeCamp
 - [ ]  Re-read pages 64-74 of JavaScript & jQuery book
 - [ ]  Practice at least 10 minutes of touch typing
 
 ### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
+- Reviewed 4.2 - Making Decisions with Conditionals
 - 4.3 - Repeating with Loops
 
 #### 2. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
@@ -25,6 +26,53 @@
 #### 4. Re-read pages 64-74 of JavaScript & jQuery book
 
 #### 3. Worked on JavaScript exercises on freeCodeCamp
+- Reviewed sections 29-31 (up to "Use Bracket Notation to Find the First Character in a String")
+- Understand String Immutability (32)
+
+--------------------
+
+## May 24, 2018 (DAY 5)
+
+### TODAY'S GOALS:
+- [ ]  Complete at least one section of Discovery Learning module 4
+- [ ]  Review completed JavaScript sections on freeCodeCamp from day before yesterday
+- [ ]  Complete at least 3 more JavaScript sections on freeCodeCamp
+- [ ]  Re-read pages 64-74 of JavaScript & jQuery book
+- [x]  Practice at least 10 minutes of touch typing
+- [x]  Plan and set up for freeCodeCamp meetup
+
+### TODAY'S COMPLETIONS:
+#### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
+- Reviewed 4.2 - Making Decisions with Conditionals
+
+#### 2. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
+- Lesson 1: Home Row Position (All, 1-9)
+
+#### 3. Attended freeCodeCamp Meetup
+- Met up with local coders
+- Valuable discussion and great learning and goal-setting
+
+--------------------
+
+## May 23, 2018 (DAY 4)
+
+### TODAY'S GOALS:
+- [ ]  Complete at least one section of Discovery Learning module 4
+- [ ]  Review completed JavaScript sections on freeCodeCamp from yesterday
+- [ ]  Complete at least 3 more JavaScript sections on freeCodeCamp
+- [ ]  Re-read pages 64-74 of JavaScript & jQuery book
+- [x]  Practice at least 10 minutes of touch typing
+
+### TODAY'S COMPLETIONS:
+#### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
+- 4.3 - Repeating with Loops (7 out of 13 steps)
+
+#### 2. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
+- Lesson 1: Home Row Position (All, 1-9)
+
+#### 4. Re-read pages 64-74 of JavaScript & jQuery book
+
+#### 5. Worked on JavaScript exercises on freeCodeCamp
 - Reviewed sections 29-31 (up to "Use Bracket Notation to Find the First Character in a String")
 - Understand String Immutability (32)
 
