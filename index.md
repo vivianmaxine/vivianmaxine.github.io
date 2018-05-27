@@ -6,19 +6,13 @@
 ------------------
 ------------------
 
-## May 25, 2018 (DAY 6)
-
-### TODAY'S GOALS:
-- [ ]  Complete at least one section of Discovery Learning module 4
-- [ ]  Review completed JavaScript sections on freeCodeCamp from day before yesterday
-- [ ]  Complete at least 3 more JavaScript sections on freeCodeCamp
-- [ ]  Re-read pages 64-74 of JavaScript & jQuery book
-- [ ]  Practice at least 10 minutes of touch typing
+## May 26, 2018 (DAY 7)
 
 ### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
 - Reviewed 4.2 - Making Decisions with Conditionals
-- 4.3 - Repeating with Loops
+- Reviewd 4.3 - Repeating with Loops
+- 4.4 - Who Ya Gonna Call? (Functions)
 
 #### 2. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
 - Lesson 1: Home Row Position (All, 1-9)
@@ -31,15 +25,18 @@
 
 --------------------
 
-## May 24, 2018 (DAY 5)
+## May 25, 2018 (DAY 6)
 
-### TODAY'S GOALS:
-- [ ]  Complete at least one section of Discovery Learning module 4
-- [ ]  Review completed JavaScript sections on freeCodeCamp from day before yesterday
-- [ ]  Complete at least 3 more JavaScript sections on freeCodeCamp
-- [ ]  Re-read pages 64-74 of JavaScript & jQuery book
-- [x]  Practice at least 10 minutes of touch typing
-- [x]  Plan and set up for freeCodeCamp meetup
+### TODAY'S COMPLETIONS:
+#### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
+- Reviewed 4.2 - Making Decisions with Conditionals
+- 4.3 - Repeating with Loops
+
+#### 2. Attended [Code Until Dawn](https://www.meetup.com/codetilldawn/events/249366716/?comment_table_id=491541958&comment_table_name=event_comment) meetup event
+
+--------------------
+
+## May 24, 2018 (DAY 5)
 
 ### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
@@ -55,13 +52,6 @@
 --------------------
 
 ## May 23, 2018 (DAY 4)
-
-### TODAY'S GOALS:
-- [ ]  Complete at least one section of Discovery Learning module 4
-- [ ]  Review completed JavaScript sections on freeCodeCamp from yesterday
-- [ ]  Complete at least 3 more JavaScript sections on freeCodeCamp
-- [ ]  Re-read pages 64-74 of JavaScript & jQuery book
-- [x]  Practice at least 10 minutes of touch typing
 
 ### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
@@ -79,13 +69,6 @@
 --------------------
 
 ## May 22, 2018 (DAY 3)
-
-### TODAY'S GOALS:
-- [x]  Complete at least one section of Discovery Learning module 4
-- [x]  Review completed JavaScript sections on freeCodeCamp from yesterday
-- [x]  Complete at least 3 more JavaScript sections on freeCodeCamp
-- [ ]  Re-read pages 50-84 of JavaScript & jQuery book
-- [x]  Practice at least 10 minutes of touch typing
 
 ### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
@@ -107,13 +90,6 @@
 --------------------
 
 ## May 21, 2018 (DAY 2)
-
-### TODAY'S GOALS:
-- [ ]  Complete at least two sections of Discovery Learning module 4
-- [x]  Review completed JavaScript sections on freeCodeCamp from yesterday
-- [x]  Complete at least 3 more JavaScript sections on freeCodeCamp
-- [ ]  Re-read pages 12-84 of JavaScript & jQuery book
-- [x]  Practice at least 10 minutes of touch typing
 
 ### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 4 (Code Like Nobody's Watching)
@@ -151,12 +127,6 @@
 --------------------
 
 ## May 20, 2018 (DAY 1)
-
-### TODAY'S GOALS:
-- [x]  Complete at least 1 Discovery Learning module
-- [x]  Review completed JavaScript sections on freeCodeCamp
-- [x]  Complete at least 2 more JavaScript sections on freeCodeCamp
-- [x]  Work on web design project for Upwork and complete 1st draft
 
 ### TODAY'S COMPLETIONS:
 #### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Module 3 (Be The Boss of Your Computer)
