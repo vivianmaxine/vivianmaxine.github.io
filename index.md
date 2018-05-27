@@ -14,15 +14,6 @@
 - Reviewd 4.3 - Repeating with Loops
 - 4.4 - Who Ya Gonna Call? (Functions)
 
-#### 2. Worked on touch typing on [Ratatype](https://www.ratatype.com/u802195/)
-- Lesson 1: Home Row Position (All, 1-9)
-
-#### 4. Re-read pages 64-74 of JavaScript & jQuery book
-
-#### 3. Worked on JavaScript exercises on freeCodeCamp
-- Reviewed sections 29-31 (up to "Use Bracket Notation to Find the First Character in a String")
-- Understand String Immutability (32)
-
 --------------------
 
 ## May 25, 2018 (DAY 6)
