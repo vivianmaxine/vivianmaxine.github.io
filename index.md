@@ -6,6 +6,16 @@
 ------------------
 ------------------
 
+
+## May 27, 2018 (DAY 8)
+
+### TODAY'S COMPLETIONS:
+#### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Modules 4 (Code Like Nobody's Watching) & 5 (Keep Calm & Problem Solve)
+- Reviewed 4.4 (Who Ya Gonna Call? [Functions])
+- Completed module 5 (mathematical calculations using functions, loops, etc.)
+
+--------------------
+
 ## May 26, 2018 (DAY 7)
 
 ### TODAY'S COMPLETIONS:
