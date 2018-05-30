@@ -7,6 +7,23 @@
 ------------------
 
 
+## May 29, 2018 (DAY 10)
+
+### TODAY'S COMPLETIONS:
+#### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Modules 4 (Code Like Nobody's Watching)
+- Reviewed 4.1, 4.2, and 4.3
+- Created many review practice problems on [repl.it](https://repl.it/@vivianmaxine/lesson4review)
+
+--------------------
+
+## May 28, 2018 (DAY 9)
+
+### TODAY'S COMPLETIONS:
+#### 1. Launchcode [Discovery Learning Program](https://www.launchcode.org/discovery?utm_source=LaunchCode+Stakeholders&utm_campaign=b395dcad44-EMAIL_CAMPAIGN_2018_04_03&utm_medium=email&utm_term=0_4145fbb318-b395dcad44-506125793) - Modules 4 (Code Like Nobody's Watching)
+- Reviewed 4.1
+
+--------------------
+
 ## May 27, 2018 (DAY 8)
 
 ### TODAY'S COMPLETIONS:
